@@ -11,3 +11,36 @@ Following Features
       Students: View result, update profile
       Teachers: Upload results, view assigned students
       Admin: Manage all data (students, teachers, subjects, results)
+3. Student Module
+      Register student (Admin only)
+      View/Edit student profile (Student & Admin)
+      Student login and view results
+      Search students by name/class
+4. Teacher Module
+      Register teacher (Admin only)
+      Assign subjects to teachers
+      View/Edit teacher profile
+      Teacher login to upload student results
+5. Subject & Result Module
+      Add subjects (Admin)
+      Assign subjects to classes
+      Upload results (Teacher)
+      View results (Student)
+6. Admin Dashboard
+      CRUD for:
+      Students
+      Teachers
+      Subjects
+      Classes
+      Results
+
+Statistics: total students, teachers, class list, etc.
+
+# Technology Stack
+   .Java 24
+   .JSP and Servlet
+   .JDBC
+   . MySQL database
+   .Eclipse IDE
+   . Tomcat Server
+   
