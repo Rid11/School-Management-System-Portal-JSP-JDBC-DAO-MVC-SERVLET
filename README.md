@@ -1,7 +1,7 @@
 # School-Management-System-Portal-JSP-JDBC-SERVLET-USING-DAO-AND-MVC-DESIGN-PATTERN
 SCHOOL MANAGEMENT PORTAL DEVELOPED USING SERVLET, JSP, JDBC AND MYSQL DATABASE WITH DAO-MVC DESIGN PATTERN
 
-##Following Features
+#Following Features
 1. Authentication & Authorization
     *Login and registration for
       Students
